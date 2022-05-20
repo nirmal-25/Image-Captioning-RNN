@@ -36,4 +36,14 @@ image_captioning.ipynb
 ```
 
 ### Results
+*Training Performance - Optimizing the RNNs*
 
+<img src = "https://user-images.githubusercontent.com/51696913/169579983-7f864626-bf42-4b97-aeea-f993ff4aa27c.png" width = "500">
+
+*Validation Performance - Average of BLEU scores over the validation set*
+
+<img src = "https://user-images.githubusercontent.com/51696913/169579989-e0b96582-5e0c-42d4-a949-fe214662c0bf.png" width = "500">
+
+<img src = "https://user-images.githubusercontent.com/51696913/169579946-a0c30bd9-f12e-42b9-9982-4ddb06e65512.png" width = "500">
+<img src = "https://user-images.githubusercontent.com/51696913/169579968-e4ddf32b-cd66-4040-ac13-baaff4ce57ce.png" width = "500">
+<img src = "https://user-images.githubusercontent.com/51696913/169579976-d55c0ebc-25bf-466a-ba54-21eb95401a1e.png" width = "500">
