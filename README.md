@@ -45,10 +45,10 @@ Find the saved model weights [here](https://drive.google.com/file/d/1K0NjJbXtcBL
 
 *Training Performance - Optimizing the RNNs*
 
-<img src = "https://user-images.githubusercontent.com/51696913/169579983-7f864626-bf42-4b97-aeea-f993ff4aa27c.png" width = "500">
+<img src = "https://user-images.githubusercontent.com/51696913/169579983-7f864626-bf42-4b97-aeea-f993ff4aa27c.png" width = "400">
 
 *Validation Performance - Average of BLEU scores over the validation set*
 
-<img src = "https://user-images.githubusercontent.com/51696913/169579989-e0b96582-5e0c-42d4-a949-fe214662c0bf.png" width = "800">
+<img src = "https://user-images.githubusercontent.com/51696913/169579989-e0b96582-5e0c-42d4-a949-fe214662c0bf.png" width = "600">
 
 
