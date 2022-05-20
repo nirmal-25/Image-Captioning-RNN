@@ -35,6 +35,8 @@ model_weights/
 image_captioning.ipynb
 ```
 
+Find the saved model weights [here](https://drive.google.com/file/d/1K0NjJbXtcBLkbtVzeuiaV20deAph7jT3/view?usp=sharing)
+
 ### Results
 
 <img src = "https://user-images.githubusercontent.com/51696913/169579946-a0c30bd9-f12e-42b9-9982-4ddb06e65512.png" width = "300">
