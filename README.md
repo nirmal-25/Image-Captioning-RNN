@@ -1,7 +1,7 @@
 # Image Captioning with RNN
 
 ### Dataset
-An LSTM network is trained on the [VizWiz-Captions dataset](https://vizwiz.org/tasks-and-datasets/image-captioning/). It consists of 23,431 training images with 117,155 training captions; 7,750 validation images with 38,750 validation captions; 8,000 test images with 40,000 test captions (unavailable to developers; reserved for the image captioning competition). Here, a subset of the train images (8000 images in the ‘train1’ dataset) is used to train the RNN; and the validation images are used to validate the performance of image captioning.
+An LSTM network is trained on the [VizWiz-Captions dataset](https://vizwiz.org/tasks-and-datasets/image-captioning/). It consists of 23,431 training images with 117,155 training captions; 7,750 validation images with 38,750 validation captions; 8,000 test images with 40,000 test captions (unavailable to developers; reserved for the image captioning competition). Here, a subset of the train images (8000 images in the ‘train1’ dataset) is used to train the RNN; and the validation images are used to validate the model performance.
 
 ### Approach
 
