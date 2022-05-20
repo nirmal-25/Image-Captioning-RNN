@@ -5,7 +5,7 @@ An LSTM network is trained on the [VizWiz-Captions dataset](https://vizwiz.org/t
 
 ### Approach
 
-<img src="https://user-images.githubusercontent.com/51696913/169579429-90ccab9f-5cbb-46f9-8bc0-ad3f29763d91.png" width="400">
+<img src="https://user-images.githubusercontent.com/51696913/169579429-90ccab9f-5cbb-46f9-8bc0-ad3f29763d91.png" width="600">
 
 Certain data pre-processing steps such as converting all letters to lowercase, eliminating special characters, removing numbers from captions are done, and a vocabulary consisting of all the unique words across the train captions is created. Special tokens – ‘startseq’ and ‘endseq’ are added to each caption to indicate the beginning and ending of captions. A pre-trained GLOVE model is used for creating the word embedding matrix is taken as the input.
 
