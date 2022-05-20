@@ -39,7 +39,7 @@ Find the saved model weights [here](https://drive.google.com/file/d/1K0NjJbXtcBL
 
 ### Results
 
-<img src = "https://user-images.githubusercontent.com/51696913/169579946-a0c30bd9-f12e-42b9-9982-4ddb06e65512.png" width = "300">
+<img src = "https://user-images.githubusercontent.com/51696913/169579946-a0c30bd9-f12e-42b9-9982-4ddb06e65512.png" width = "330">
 <img src = "https://user-images.githubusercontent.com/51696913/169579968-e4ddf32b-cd66-4040-ac13-baaff4ce57ce.png" width = "450">
 <img src = "https://user-images.githubusercontent.com/51696913/169579976-d55c0ebc-25bf-466a-ba54-21eb95401a1e.png" width = "400">
 
